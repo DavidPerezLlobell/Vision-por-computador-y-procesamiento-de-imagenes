@@ -2,6 +2,7 @@
 
 [![MATLAB](https://img.shields.io/badge/Language-MATLAB-orange.svg)](https://www.mathworks.com/)
 [![Toolbox](https://img.shields.io/badge/Toolbox-Image_Processing-blue.svg)](https://www.mathworks.com/)
+[![Toolbox](https://img.shields.io/badge/Toolbox-Computer\_Vision-blue.svg)](https://www.mathworks.com/)
 
 Repositorio con **11 módulos prácticos**
 de Visión por Computador e Inspección
@@ -11,11 +12,11 @@ Industrial Automatizada en MATLAB.
 
 ## 📌 Tabla de Contenidos
 
-- [Estructura del Repositorio](#-estructura-del-repositorio)
-- [Resultados y Ejemplos Visuales](#-demostración-visual-y-resultados-ejecutados)
-- [Nota sobre Funciones Propietarias (`_isa`)](#-nota-sobre-funciones-propietarias-_isa)
-- [Requisitos del Sistema](#-requisitos-del-sistema)
-- [Guía de Ejecución](#-guía-de-ejecución)
+- [Estructura del Repositorio](#estructura-del-repositorio)
+- [Resultados y Ejemplos Visuales](#demostración-visual-y-resultados-ejecutados)
+- [Nota sobre Funciones Propietarias (`_isa`)](#nota-sobre-funciones-propietarias-_isa)
+- [Requisitos del Sistema](#requisitos-del-sistema)
+- [Guía de Ejecución](#guía-de-ejecución)
 
 ---
 
