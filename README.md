@@ -12,12 +12,12 @@ Industrial Automatizada en MATLAB.
 
 ## 📌 Tabla de Contenidos
 
-- [Estructura del Repositorio](#estructura-del-repositorio)
-- [Demostración Visual y Resultados Ejecutados](#demostración-visual-y-resultados-ejecutados)
-- [Nota sobre Funciones Propietarias (\_isa)](#nota-sobre-funciones-propietarias-\_isa)
-- [Requisitos del Sistema](#requisitos-del-sistema)
-- [Guía de Ejecución](#guía-de-ejecución)
-- [Licencia](#-licencia)
+- Estructura del Repositorio
+- Demostración Visual y Resultados Ejecutados
+- Nota sobre Funciones Propietarias (\`\_isa\`)
+- Requisitos del Sistema
+- Guía de Ejecución
+- Licencia
 
 ---
 
