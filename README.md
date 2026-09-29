@@ -17,6 +17,7 @@ Industrial Automatizada en MATLAB.
 - [Nota sobre Funciones Propietarias (`_isa`)](#-nota-sobre-funciones-fropietarias-(`_isa`))
 - [Requisitos del Sistema](#-requisitos-del-sistema)
 - [Guía de Ejecución](#-guía-de-ejecución)
+- [Licencia](#-licencia)
 
 ---
 
@@ -212,3 +213,10 @@ Para ejecutar los scripts de forma nativa:
    ```matlab
    run('01_fundamentos_procesamiento_imagenes_matlab.m')
    ```
+
+   ---
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más información.
+
